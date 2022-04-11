@@ -1,0 +1,9 @@
+﻿PlayerID,PlayerName,IsCaptain,Gender,Rating,PartnerID
+1,Captain 1,Yes,Female,9,
+2,Captain 2,Yes,Male,9,
+3,Awesome Girl,No,Female,9,
+4,Awesome Guy,No,Male,9,
+5,Average Girl,No,Female,5,
+6,Average Guy,No,Male,5,
+7,Noob Girl,No,Female,1,
+8,Noob Guy,No,Male,1,
